@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahriar badhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar badhon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shahriar badhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shahriar badhon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahriar-badhon-66993b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar badhon" height="30" width="40" /></a>
+
 <a href="https://fb.com/shahriar ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriar ahmed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shahriar badhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahriar badhon" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cryptic_cyder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cryptic_cyder" height="30" width="40" /></a>
