@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Java, Spring boot**
 
-- 💬 Ask me about **Java, Spring boot basic**
+- 💬 Ask me about **Java, Spring boot basic, Data Structure**
 
 - 📫 How to reach me **shahriarbadhon778@gmail.com**
 
