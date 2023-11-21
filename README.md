@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptic-cyder&label=Profile%20views&color=0e75b6&style=flat" alt="cryptic-cyder" /> </p>
+
 
 - 🌱 I’m currently learning **Advance Java, Spring boot**
 
