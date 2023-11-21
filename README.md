@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Advance Java, Spring boot**
+- 🌱 I’m currently learning **Advance Java and Spring frameworks in depth**
 
-- 💬 Ask me about **Java, Spring boot basic, Data Structure**
+- 💬 Ask me about **Java, Spring, Spring Boot basic, Data Structure & Algorithms**
 
 - 📫 How to reach me **shahriarbadhon778@gmail.com**
 
